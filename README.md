@@ -1,10 +1,8 @@
 # Server For Pilots
+### Author: Kristijan Stipić
+### Date: 01.08.2012. (started)
 
-======================= SERVER FOR PILOTS =======================
-	by: Kristijan Stipić
-	Date: 01.08.2012. (started)
+Links:
 
-	Links:
-
-	http://balkan-samp.com/forum/index.php?topic=61961.0
-	http://balkan-samp.com/forum/index.php?topic=70336.0
+* http://balkan-samp.com/forum/index.php?topic=61961.0t
+* http://balkan-samp.com/forum/index.php?topic=70336.0
